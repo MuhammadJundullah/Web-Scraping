@@ -113,10 +113,3 @@ The script performs the following steps:
     print("Success")
     ```
 
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-You can adjust the content as needed and ensure that your repository contains the necessary files like `requirements.txt` and `LICENSE`.
